@@ -1,0 +1,6 @@
+str1 = input("Enter yor first statement: ")
+str2 = input("Enter yor second statement: ")
+str3 = input("Enter yor third statement: ")
+str4 = input("Enter yor fourth statement: ")
+print(str1+str2+str3+str4)
+print(" ".join([str1,str2,str3,str4]))
